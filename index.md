@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# leah
+leah
 
 <br>
 
@@ -12,8 +12,15 @@ layout: default
 
 [twitter](twitter.com)
 
-# Big header
-## Medium
-###### Tiny
+
+<br>
+
+- [ ] something
+- [ ] on
+- [ ] a
+- [ ] list
 
 
+<br>
+
+**bold**
